@@ -1,0 +1,1 @@
+Hi, this repository is created with the intention of helping me learn how to code trees in CPP.
